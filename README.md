@@ -9,3 +9,6 @@ add text used browser
 add text local
 
 add text for new branch 
+
+create a conflict by browser
+
