@@ -10,5 +10,5 @@ add text local
 
 add text for new branch 
 
-create a conflict by browser
+add conflict line with local text
 
